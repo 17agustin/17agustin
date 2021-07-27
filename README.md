@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/39142850/67110554-fdea5400-f20d-11e9-834a-d459a612b7b1.gif" width="100%" height="500px"/>
 
 <div>
- <img src="https://image.pngaaa.com/875/2507875-small.png" alt=""/>
+ <img src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png" alt=""/>
  <span>###React</span>
  </div>
 <!--
