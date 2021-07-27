@@ -5,7 +5,7 @@
  <h1>Technologies</h1>
  <img src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png" width="100px" height="100px" alt=""/>
  <p>React</p>
- <img src="https://img.icons8.com/color/452/redux.png" alt=""/>
+ <img src="https://img.icons8.com/color/452/redux.png" width="100px" height="100px" alt=""/>
  <p>Redux</p>
  </div>
 <!--
