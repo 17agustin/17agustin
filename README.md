@@ -2,6 +2,7 @@
 <img src="https://user-images.githubusercontent.com/39142850/67110554-fdea5400-f20d-11e9-834a-d459a612b7b1.gif" width="100%" height="500px"/>
 
 <div>
+ <h1>Technologies</h1>
  <img src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png" width="100px" height="100px" alt=""/>
  <p>React</p>
  </div>
