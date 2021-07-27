@@ -3,10 +3,10 @@
 
 <div>
  <h1>Technologies</h1>
-<span> <img src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png" width="100px" height="100px" alt=""/>
- <p>React</p> </span>
-<span> <img src="https://img.icons8.com/color/452/redux.png" width="100px" height="100px" alt=""/>
- <p>Redux</p></span>
+ <img src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png" width="100px" height="100px" alt=""/><img src="https://img.icons8.com/color/452/redux.png" width="100px" height="100px" alt=""/>
+ <p>React</p> 
+ 
+ <p>Redux</p>
  </div>
 <!--
 **17agustin/17agustin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
