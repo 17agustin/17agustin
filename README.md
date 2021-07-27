@@ -3,7 +3,7 @@
 
 <div>
  <h1>Technologies</h1>
- <img src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png" width="100px" height="100px" alt=""/>  <img src="https://img.icons8.com/color/452/redux.png" width="100px" height="100px" alt=""/>   <img src="https://ismaeljdz7.com/img/abilities/expressjs.png" width="100px" height="100px" alt=""/> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" width="100px" height="100px" alt=""/>  <img src="https://img.icons8.com/color/452/redux.png" width="100px" height="100px" alt=""/>   <img src="https://ismaeljdz7.com/img/abilities/expressjs.png" width="100px" height="100px" alt=""/> 
  <p><span>React</span><span>Redux</span><span>ExpressJs</span></p> 
  
  </div>
