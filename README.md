@@ -21,10 +21,12 @@
  
   <p>
 - 📫 How to reach me: 
-   via Email: 17agustin19@gmail.com
-   via phone: +54 11-2786-0924
-   via LinkedIn: https://www.linkedin.com/in/agustinundev
- </p>
+ <ul>
+  <li>via Email: 17agustin19@gmail.com</li>
+    <li>via phone: +54 11-2786-0924</li>
+   <li> via LinkedIn: https://www.linkedin.com/in/agustinundev</li>
+ </ul>
+  </p>
 
  </div>
 <!--
