@@ -1,5 +1,5 @@
 <h1> Hi Everyone!!! 👋😀 </h1>
-<h2>My name is Agustin, I'm 24 years old and I am passionate about programming.  </h2>
+<h2>My name is Agustin, I'm 26 years old and I am passionate about programming.  </h2>
 <h2>Also i like to play guitar as my hobby 🎸</h2>
 <img src="https://user-images.githubusercontent.com/39142850/67110554-fdea5400-f20d-11e9-834a-d459a612b7b1.gif" width="100%" height="500px"/>
 
@@ -35,7 +35,7 @@
 - 📫 How to reach me: 
  <ul>
   <li>via Email: 17agustin19@gmail.com</li>
-    <li>via phone: +54 11-2786-0924</li>
+    <li>via phone: +54 11-2725-5428</li>
    <li> via LinkedIn: https://www.linkedin.com/in/agustinundev</li>
  </ul>
   </p>
