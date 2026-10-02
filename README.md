@@ -1,6 +1,6 @@
 <h1> Hi Everyone!!! 👋😀 </h1>
-<h2>My name is Agustin, I'm 28 years old and I am passionate about programming.  </h2>
-<h2>Also i like to play guitar as my hobby 🎸</h2>
+<h2>My name is Agustin, I'm 29 years old and I am passionate about programming.  </h2>
+<h2>I also like to play guitar as a hobby 🎸</h2>
 <img src="https://user-images.githubusercontent.com/39142850/67110554-fdea5400-f20d-11e9-834a-d459a612b7b1.gif" width="100%" height="500px"/>
 
 <div>
